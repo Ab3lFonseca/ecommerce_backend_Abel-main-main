@@ -96,6 +96,6 @@ mvn test
 ## 👨‍💻 Autor
 
 **Abel Fonseca** — Trabalho final acadêmico  
-📅 Ano: 2025
+📅 Ano: 2024
 
 ---
